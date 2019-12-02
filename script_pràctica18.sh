@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#https://github.com/a18pauenjsum/projecte-03
+
 usage(){
 cat <<EOF
 Usage: ./disable-local-user.sh [-dra] USER [USERN]
